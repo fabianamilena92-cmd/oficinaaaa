@@ -1,0 +1,15 @@
+.ordem {
+  background-color: white;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.concluida {
+  background-color: #d8f0d8;
+}
+
+.selo {
+  color: green;
+  font-weight: bold;
+}
